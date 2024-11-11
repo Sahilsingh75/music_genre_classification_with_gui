@@ -23,7 +23,7 @@ Due to its size, the GTZAN dataset is not stored directly in this GitHub reposit
 
 ### Option 1: Google Drive
 1. Visit the following Google Drive link to download the dataset:
-   [Google Drive - GTZAN Dataset](YOUR_GOOGLE_DRIVE_LINK)
+   [Google Drive - GTZAN Dataset](https://drive.google.com/drive/folders/1Vgu541Yy2DbLgjC5T1bwKBC1sZRmfapl?usp=sharing)
 
 2. After downloading, place the `genres original` folder in the `DATA/` directory within this project.
 
