@@ -1,0 +1,6 @@
+librosa==0.8.1
+numpy==1.21.2
+scikit-learn==0.24.2
+xgboost==1.4.2
+joblib==1.0.1
+tk==0.1.0
