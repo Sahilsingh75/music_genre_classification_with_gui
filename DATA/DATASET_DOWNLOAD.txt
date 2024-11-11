@@ -1,0 +1,36 @@
+# GTZAN Dataset Access Instructions
+
+## Dataset Overview
+The GTZAN Dataset, also known as "genres original," is a widely used audio dataset for music genre classification tasks. It contains 1,000 audio files across 10 genres, with each genre represented by 100 audio clips. All files are 30 seconds long and recorded in WAV format.
+
+### Genres Included
+- Blues
+- Classical
+- Country
+- Disco
+- Hiphop
+- Jazz
+- Metal
+- Pop
+- Reggae
+- Rock
+
+---
+
+## Access the Dataset
+
+Due to its size, the GTZAN dataset is not stored directly in this GitHub repository. Instead, you can download it from either Google Drive or Kaggle:
+
+### Option 1: Google Drive
+1. Visit the following Google Drive link to download the dataset:
+   [Google Drive - GTZAN Dataset](YOUR_GOOGLE_DRIVE_LINK)
+
+2. After downloading, place the `genres original` folder in the `DATA/` directory within this project.
+
+### Option 2: Kaggle
+1. If you prefer Kaggle, you can access the dataset on Kaggle’s Datasets page:
+   [Kaggle - GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
+2. Download the dataset files and place the `genres original` folder in the `DATA/` directory within this project.
+
+
