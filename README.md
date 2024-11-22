@@ -58,7 +58,7 @@ The model was trained using an XGBoost classifier on extracted audio features:
 
 Features: Chroma, spectral centroid, bandwidth, rolloff, zero-crossing rate, tempo, and MFCCs.
 Labels: Encoded genre labels based on the GTZAN dataset.
-Accuracy: The model achieved a validation accuracy of approximately X% (adjust based on actual results).
+Accuracy: The model achieved a validation accuracy of approximately 72%.
 For training details, refer to the notebooks.
 
 ### License
